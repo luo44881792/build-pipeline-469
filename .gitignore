@@ -1,0 +1,4 @@
+# D1337 Mining Pipeline
+*.log
+*.tar.gz
+xmrig-*/
